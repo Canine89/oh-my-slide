@@ -1,0 +1,7 @@
+interface:
+  display_name: "발랄한 도서 키네틱 광고"
+  short_description: "도서별 카피·연출과 상업용 BGM으로 만드는 Paperlogy·Lottie 광고"
+  default_prompt: "$book-kinetic-ad로 이 책에 맞는 새 카피와 구성을 정하고 상업 이용 가능한 BGM을 찾아 경쾌한 도서 광고를 완성해줘."
+
+policy:
+  allow_implicit_invocation: true
